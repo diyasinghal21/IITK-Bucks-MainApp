@@ -1,0 +1,33 @@
+{
+  "name": "iitk-bucks-mainapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "block.js",
+  "scripts": {
+    "test": "nodemon App.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diyasinghal21/IITK-Bucks-MainApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diyasinghal21/IITK-Bucks-MainApp/issues"
+  },
+  "homepage": "https://github.com/diyasinghal21/IITK-Bucks-MainApp#readme",
+  "dependencies": {
+    "bignum": "^0.13.1",
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "nano-time": "^1.0.0",
+    "node-fetch": "^2.6.0",
+    "node-rsa": "^1.0.8",
+    "readline": "^1.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
